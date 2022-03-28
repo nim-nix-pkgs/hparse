@@ -11,7 +11,6 @@
   inputs.src-hparse-v0_2_6.ref   = "refs/tags/v0.2.6";
   inputs.src-hparse-v0_2_6.owner = "haxscramper";
   inputs.src-hparse-v0_2_6.repo  = "hparse";
-  inputs.src-hparse-v0_2_6.dir   = "";
   inputs.src-hparse-v0_2_6.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";

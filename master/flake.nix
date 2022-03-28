@@ -11,7 +11,6 @@
   inputs.src-hparse-master.ref   = "refs/heads/master";
   inputs.src-hparse-master.owner = "haxscramper";
   inputs.src-hparse-master.repo  = "hparse";
-  inputs.src-hparse-master.dir   = "";
   inputs.src-hparse-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
